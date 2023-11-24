@@ -10,7 +10,7 @@ int main(int argc, char* argv[]) {
         N = std::atoi(argv[1]);
     }
     else {
-        // 如果沒有提供命令列參數，設定 N 為預設值 10
+        // 如果沒有提供命令列參數，設定 N 為預設值 20
         N = 20;
     }
 
