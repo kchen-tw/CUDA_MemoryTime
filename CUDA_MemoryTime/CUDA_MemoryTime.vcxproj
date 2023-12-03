@@ -12,7 +12,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{1F1D74AD-A92B-43B8-97C8-E248ED620980}</ProjectGuid>
-    <RootNamespace>MemoryTime</RootNamespace>
+    <RootNamespace>CUDA_MemoryTime</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">

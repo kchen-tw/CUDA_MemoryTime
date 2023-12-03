@@ -4,6 +4,5 @@
 *.ptx
 *.cubin
 *.fatbin
-/.vs/MemoryTime
-/MemoryTime/x64
+/CUDA_MemoryTime/x64
 /x64
